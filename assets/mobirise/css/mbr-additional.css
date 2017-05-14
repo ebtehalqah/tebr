@@ -590,11 +590,11 @@ h6,
   font-family: 'Titillium Web', sans-serif;
 }
 #menu-r .link {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 #menu-r .dropdown-item,
 #menu-r .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.812rem;
 }
 #menu-r .link:hover,
 #menu-r .dropdown-item:hover,

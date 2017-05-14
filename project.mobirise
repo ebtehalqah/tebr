@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tebr",
-    "currentPage": "Home.html",
+    "currentPage": "Alteryaq.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -542,10 +542,10 @@
               "font-family": "'Titillium Web', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -969,7 +969,7 @@
               "name": "image-slider",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "ardhalsama.html",
+              "link": "Heavenlyland.html",
               "size": 0,
               "color": "",
               "newWindow": false
@@ -1325,7 +1325,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/teryaq-des.gif",
             "bgColor": "#033542",
             "bgColorRadio": false,
@@ -1447,21 +1447,6 @@
           "_anchor": "gallery2-15",
           "articleLayout": false,
           "allItem": "All"
-        },
-        {
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F221596196",
-          "alias": "soundcloud",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-16",
-          "_params": {
-            "sound": "https://soundcloud.com/alteryaq",
-            "autoplay": true,
-            "fullWidth": false
-          },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F221596196&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         },
         {
           "_tags": [
