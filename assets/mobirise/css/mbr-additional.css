@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -702,6 +703,7 @@ h6,
 
 
 
+
 #header1-i .mbr-section-title {
   font-size: 30px;
 }
@@ -728,6 +730,9 @@ h6,
 }
 #social-buttons3-2 .mbr-section-title {
   font-size: 16px;
+}
+#contacts1-3 P {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -802,6 +807,7 @@ h6,
 }
 
 
+
 #header1-12 .mbr-section-title {
   font-size: 20px;
 }
@@ -813,6 +819,9 @@ h6,
 }
 #header5-13 .mbr-section-lead {
   color: #9c9a9a;
+}
+#contacts1-z P {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
