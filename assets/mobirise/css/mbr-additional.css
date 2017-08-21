@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
 
 
 
@@ -438,6 +439,9 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 }
+#contacts1-j P {
+  font-family: 'Roboto', sans-serif;
+}
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -504,6 +508,10 @@ h6,
 }
 
 
+
+#contacts1-n P {
+  font-family: 'Roboto', sans-serif;
+}
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -525,11 +533,11 @@ h6,
   font-family: 'Titillium Web', sans-serif;
 }
 #menu-o .link {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 #menu-o .dropdown-item,
 #menu-o .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.812rem;
 }
 #menu-o .link:hover,
 #menu-o .dropdown-item:hover,
@@ -570,6 +578,10 @@ h6,
 }
 
 
+
+#contacts1-q P {
+  font-family: 'Roboto', sans-serif;
+}
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -636,6 +648,10 @@ h6,
 }
 
 
+
+#contacts1-t P {
+  font-family: 'Roboto', sans-serif;
+}
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -657,11 +673,11 @@ h6,
   font-family: 'Titillium Web', sans-serif;
 }
 #menu-u .link {
-  font-size: 0.9rem;
+  font-size: 0.75rem;
 }
 #menu-u .dropdown-item,
 #menu-u .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.812rem;
 }
 #menu-u .link:hover,
 #menu-u .dropdown-item:hover,
@@ -724,15 +740,22 @@ h6,
   font-size: 21px;
   color: #404041;
 }
+#social-buttons4-8 .mbr-section-title,
+#social-buttons4-8 .btn-social {
+  color: #fff;
+}
+#social-buttons4-8 .mbr-section-title {
+  font-size: 15px;
+}
+#contacts1-3 P {
+  font-family: 'Roboto', sans-serif;
+}
 #social-buttons3-2 .mbr-section-title,
 #social-buttons3-2 .btn-social {
   color: #fff;
 }
 #social-buttons3-2 .mbr-section-title {
   font-size: 16px;
-}
-#contacts1-3 P {
-  font-family: 'Roboto', sans-serif;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -797,13 +820,6 @@ h6,
 #menu-4 .link[aria-expanded="true"],
 #menu-4 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#social-buttons4-8 .mbr-section-title,
-#social-buttons4-8 .btn-social {
-  color: #fff;
-}
-#social-buttons4-8 .mbr-section-title {
-  font-size: 15px;
 }
 
 
@@ -889,8 +905,12 @@ h6,
 }
 
 
+
 #content2-1d SPAN {
   text-align: right;
+}
+#contacts1-17 P {
+  font-family: 'Roboto', sans-serif;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
