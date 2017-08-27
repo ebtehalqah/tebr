@@ -284,7 +284,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/cover-2000x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/cover1-1920x960.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
